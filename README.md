@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ----------------------
 
 * 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [sundayjabikem@gmail.com](mailto:sundayjabikem@gmail.com)
+* ✉️  You can contact me at [iwuchukwu.ike@gmail.com](mailto:iwuchukwu.ike@gmail.com)
 * 🧠  I'm learning Spring Boot
 * 🤝  I'm open to collaborating on .NET Projects and Microservice Projects
 * ⚡  Lets Connect. I love to work with Smart Minds Like yours
